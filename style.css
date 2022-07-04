@@ -1,0 +1,52 @@
+.half-width{
+    width: 40%;
+    padding-left: 5%;
+    padding-right: 6%;
+    
+}
+.half-width img{
+    width: 115%;  
+}
+.flex-container{
+    display: flex;
+    margin: 0%;
+    padding-top: 0%;
+    margin-bottom: 200px;
+}
+.color{
+    color: blue;
+}
+body{
+    font-family: 'Public Sans', sans-serif;
+    margin: 0%;
+}
+.text{
+    width: 100%;
+    font-size: 60px;
+    padding-top: 20%;
+    text-align: left;
+}
+div p{
+    text-align: left;
+    font-size: 20px;
+}
+.button{
+    text-decoration: none;
+    background-color: rgb(41, 41, 240);
+    color: white;
+    padding: 20px 40px;
+    background-image: linear-gradient(blue,rgb(145, 195, 214));
+    border-radius: 50px;
+    font-size: 20px
+}
+.bg-image{
+    background-image: url(Frame-57.jpg);
+    background-repeat: no-repeat;
+}
+#button-align{
+    margin-left: 1%;
+}
+.align{
+    font-size: 40px;
+    padding-top: 18%;
+}
