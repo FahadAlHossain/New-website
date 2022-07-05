@@ -100,7 +100,8 @@ div p{
     box-shadow: 3px 2px 30px rgba(97, 97, 97, 0.288);
     padding-right: 150px;
     padding-left: 140px;
-    padding-top: 20px;
+    padding-top: 10px;
+    padding-bottom: 20px;
     text-align: center;
 }
 .align-p{
