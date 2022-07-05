@@ -9,12 +9,10 @@
 }
 .flex-container{
     display: flex;
-    margin: 0%;
-    padding-top: 0%;
-    margin-bottom: 200px;
+    margin-bottom: 150px;
 }
 .color{
-    color: blue;
+    color: rgb(2, 2, 175);
 }
 body{
     font-family: 'Public Sans', sans-serif;
@@ -49,4 +47,71 @@ div p{
 .align{
     font-size: 40px;
     padding-top: 18%;
+}
+.center-align{
+    text-align: center;
+    padding-left: 30%;
+    padding-right: 30%;
+    font-size: 25px;
+
+}
+#a{
+    text-align: center;
+}
+#A img{
+    width: 100%;
+}
+#b img{
+    width: 100%;
+    height: 62%;
+    border-radius: 20px;
+}
+#b{
+    width: 40%;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-right: 8%;
+    margin-left: 2%;
+    box-shadow: 3px 2px 30px rgba(100, 98, 98, 0.26);
+    border-radius: 20px;
+    padding-bottom: 1%;
+    padding-top: 20px;
+}
+#A{
+    width: 40%;
+    margin-right: 2%;
+    margin-left: 8%;
+    padding-left: 30px;
+    padding-right: 30px;
+    box-shadow: 3px 2px 30px rgba(97, 97, 97, 0.288);
+    border-radius: 20px;
+    padding-top: 20px;
+}
+.text-size{
+    font-size: 20px;
+    text-align: justify;
+}
+.social{
+    width: 70%;
+    font-size: 30px;
+}
+.box{
+    margin: 8%;
+    box-shadow: 3px 2px 30px rgba(97, 97, 97, 0.288);
+    padding-right: 150px;
+    padding-left: 140px;
+    padding-top: 20px;
+    text-align: center;
+}
+.align-p{
+    text-align: center;
+}
+.bg-color{
+    background-image: linear-gradient(rgb(28, 28, 231),rgb(61, 174, 212));
+    text-align: center;
+    padding-bottom: 100px;
+    padding-top: 20px;
+}
+#text-size{
+    font-size: 30px;
 }
